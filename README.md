@@ -55,6 +55,6 @@ To check remote url
 git remote -v
 ...
 
-API_KEY = <>
-APP_NAME = basic-app-01
-EMAIL_ID = singhmohan1998july@gmail.com
+HEROKU_API_KEY = <>
+HEROKU_APP_NAME = basic-app-01
+HEROKU_EMAIL_ID = singhmohan1998july@gmail.com
